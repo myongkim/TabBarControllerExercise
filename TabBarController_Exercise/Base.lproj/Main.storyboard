@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Drink-->
+        <!--Drink View Controller-->
         <scene sceneID="wro-Oc-ieF">
             <objects>
                 <viewController id="wfq-Gy-aB6" customClass="DrinkViewController" customModule="TabBarController_Exercise" customModuleProvider="target" sceneMemberID="viewController">
@@ -39,13 +39,13 @@
                         </subviews>
                         <color key="backgroundColor" red="0.90966639431418328" green="1" blue="0.12231134713807534" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Drink" image="003-wine-glasses.png" id="PeO-sr-7oH"/>
+                    <tabBarItem key="tabBarItem" title="" image="003-wine-glasses.png" id="PeO-sr-7oH"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nNd-9o-Jf9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-194.40000000000001" y="23.838080959520241"/>
         </scene>
-        <!--Food-->
+        <!--Food View Controller-->
         <scene sceneID="HFL-xf-oNl">
             <objects>
                 <viewController id="51s-IV-hVp" customClass="FoodViewController" customModule="TabBarController_Exercise" customModuleProvider="target" sceneMemberID="viewController">
@@ -75,13 +75,13 @@
                         </subviews>
                         <color key="backgroundColor" red="0.47945479892495591" green="1" blue="0.97519946481868292" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Food" image="004-food.png" id="hPu-xo-9bz"/>
+                    <tabBarItem key="tabBarItem" title="" image="004-food.png" id="hPu-xo-9bz"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Vze-MM-uUB" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-196" y="-631.0344827586207"/>
         </scene>
-        <!--Dessert-->
+        <!--View Controller-->
         <scene sceneID="dQh-cJ-zsO">
             <objects>
                 <viewController id="nmi-K6-9gC" sceneMemberID="viewController">
@@ -103,13 +103,13 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.1586203273683009" blue="0.11722184982284978" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Dessert" image="002-cupcake.png" id="vOh-Za-aIF"/>
+                    <tabBarItem key="tabBarItem" title="" image="002-cupcake.png" id="vOh-Za-aIF"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TqO-j0-wFe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-327.19999999999999" y="656.22188905547227"/>
         </scene>
-        <!--Checkout-->
+        <!--View Controller-->
         <scene sceneID="GdS-eP-ifd">
             <objects>
                 <viewController id="2FN-xZ-aKz" sceneMemberID="viewController">
@@ -131,7 +131,7 @@
                         </subviews>
                         <color key="backgroundColor" red="0.84869666253598697" green="0.32712096436632909" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Checkout" image="001-checkout.png" id="UVh-67-pKM"/>
+                    <tabBarItem key="tabBarItem" title="" image="001-checkout.png" id="UVh-67-pKM"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tcm-OF-H3M" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

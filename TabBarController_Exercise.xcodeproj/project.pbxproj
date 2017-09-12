@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		6A369A501F64D85B006CD1AD /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A369A4F1F64D85B006CD1AD /* FoodViewController.swift */; };
 		6A369A521F64DC0A006CD1AD /* DrinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A369A511F64DC0A006CD1AD /* DrinkViewController.swift */; };
+		6AC5BAB21F67A80700A95E82 /* 001-checkout.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AC5BAB11F67A80700A95E82 /* 001-checkout.png */; };
+		6AC5BAB41F67A83200A95E82 /* 002-cupcake.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AC5BAB31F67A83200A95E82 /* 002-cupcake.png */; };
+		6AC5BAB71F67A83800A95E82 /* 003-wine-glasses.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AC5BAB51F67A83800A95E82 /* 003-wine-glasses.png */; };
+		6AC5BAB81F67A83800A95E82 /* 004-food.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AC5BAB61F67A83800A95E82 /* 004-food.png */; };
 		6AF7EE921F64CD0C00782F96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF7EE911F64CD0C00782F96 /* AppDelegate.swift */; };
 		6AF7EE971F64CD0C00782F96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AF7EE951F64CD0C00782F96 /* Main.storyboard */; };
 		6AF7EE991F64CD0C00782F96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AF7EE981F64CD0C00782F96 /* Assets.xcassets */; };
@@ -19,6 +23,10 @@
 /* Begin PBXFileReference section */
 		6A369A4F1F64D85B006CD1AD /* FoodViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
 		6A369A511F64DC0A006CD1AD /* DrinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrinkViewController.swift; sourceTree = "<group>"; };
+		6AC5BAB11F67A80700A95E82 /* 001-checkout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-checkout.png"; sourceTree = "<group>"; };
+		6AC5BAB31F67A83200A95E82 /* 002-cupcake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "002-cupcake.png"; sourceTree = "<group>"; };
+		6AC5BAB51F67A83800A95E82 /* 003-wine-glasses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "003-wine-glasses.png"; sourceTree = "<group>"; };
+		6AC5BAB61F67A83800A95E82 /* 004-food.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "004-food.png"; sourceTree = "<group>"; };
 		6AF7EE8E1F64CD0C00782F96 /* TabBarController_Exercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBarController_Exercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AF7EE911F64CD0C00782F96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AF7EE961F64CD0C00782F96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -64,6 +72,10 @@
 				6A369A511F64DC0A006CD1AD /* DrinkViewController.swift */,
 				6A369A4F1F64D85B006CD1AD /* FoodViewController.swift */,
 				6AF7EE981F64CD0C00782F96 /* Assets.xcassets */,
+				6AC5BAB51F67A83800A95E82 /* 003-wine-glasses.png */,
+				6AC5BAB61F67A83800A95E82 /* 004-food.png */,
+				6AC5BAB31F67A83200A95E82 /* 002-cupcake.png */,
+				6AC5BAB11F67A80700A95E82 /* 001-checkout.png */,
 				6AF7EE9A1F64CD0C00782F96 /* LaunchScreen.storyboard */,
 				6AF7EE9D1F64CD0C00782F96 /* Info.plist */,
 			);
@@ -129,9 +141,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AC5BAB81F67A83800A95E82 /* 004-food.png in Resources */,
 				6AF7EE9C1F64CD0C00782F96 /* LaunchScreen.storyboard in Resources */,
+				6AC5BAB71F67A83800A95E82 /* 003-wine-glasses.png in Resources */,
 				6AF7EEA41F64CD5300782F96 /* icons in Resources */,
 				6AF7EE991F64CD0C00782F96 /* Assets.xcassets in Resources */,
+				6AC5BAB41F67A83200A95E82 /* 002-cupcake.png in Resources */,
+				6AC5BAB21F67A80700A95E82 /* 001-checkout.png in Resources */,
 				6AF7EE971F64CD0C00782F96 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
